@@ -1,0 +1,3 @@
+# Introduction
+
+The front end uses React. Ideally I would like to use Redux for state management but lack of time I decided to avoid this for now. For further improvements instead of using react-scripts I would prefer NextJS. Also add more testing ....

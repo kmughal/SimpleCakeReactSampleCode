@@ -1,0 +1,5 @@
+{
+  "GET_ALL_CAKES": "http://localhost:3001/cakes",
+  "ADD_NEW_CAKE": "http://localhost:3001/cake",
+  "DELETE_A_CAKE": "http://localhost:3001/cake"
+}
